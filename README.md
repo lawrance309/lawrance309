@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lawrance309
+- 👋 Hi, I’m @lawrance
 - 👀 I’m interested in Excel,SQL,Python,Tableau & ML
 - 🌱 I’m currently learning Data scientist.
 - 💞️ I’m looking to collaborate on ...
